@@ -1,0 +1,49 @@
+License Grants
+
+a) In consideration of the payment of the Fees and the license set forth in Clause 1(b)
+
+below, PaySense hereby grants the Merchant a non-exclusive, non-transferable,
+
+limited licence to access and use the Software and avail of the Service in accordance
+
+with the terms of this Agreement. Such access to and use of the Service by the
+
+Merchant shall only be conducted via an application program interface (“API”) key
+
+that is specifically assigned to the Merchant by PaySense in order to transmit the
+
+data as set out in Clause 2(b) and to receive the Service as set out in this
+
+Agreement.
+
+b) The Merchant hereby grants PaySense, its holding company and any other entity that
+
+controls, is controlled by or is under common control (whether by way of ownership of
+
+securities, voting power or otherwise) along with PaySense a non-exclusive, non-
+
+transferable, perpetual license to store, use, analyse and blend the information it
+
+receives from the Merchant.
+
+c) All of the Software and Services are standardised and offered to all merchants
+
+integrated with PaySense under a standard hosted model. The Software will be
+
+available to multiple users (including the Merchant) through a multi-tenant hosted
+
+computing environment.
+
+d) Updates, when released, shall be made available to the Merchant at no additional
+
+cost. The term “Update” means, subsequent releases of the Software that may be
+
+generally made available by PaySense to all other entities who are licensed to use
+
+the Software at no additional charge. Updates shall not include any releases, options
+
+or future products which PaySense licenses or permits use of separately from the
+
+Software and Services. Updates shall be considered part of the Software and be
+
+subject to all terms, conditions and restrictions applicable thereto.
